@@ -1,12 +1,12 @@
 # PHP-Playground
 
+A very simple dockerized PHP playground.
+
 ## Prerequisites
 - Docker
 - Docker-Compose
 
 ## Running it
-
-A very simple dockerized PHP playground.
 
 To start it up, just run:
 ```
