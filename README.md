@@ -10,7 +10,7 @@ A very simple dockerized PHP playground.
 
 To start it up, just run:
 ```
-docker-compse up
+docker-compose up
 ```
 
 The project directory will be served with the built-in PHP dev-server and bound to port 80 on your host.
